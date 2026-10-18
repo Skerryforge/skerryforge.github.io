@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "revision": "daily_queue_1",
+  "resetUtc": "07:00",
+  "entries": [
+    {
+      "date": "2026-10-19",
+      "candidateId": "candidate_171b3c335b26ac6a",
+      "contentHash": "171b3c335b26ac6ab4f98c78afd2d3000d4a79c23aba7aab9360fd4ff378f036",
+      "contentPath": "harbor-helm/daily/content/171b3c335b26ac6ab4f98c78afd2d3000d4a79c23aba7aab9360fd4ff378f036.json"
+    }
+  ]
+}
