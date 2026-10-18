@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "revision": "daily_queue_2",
+  "resetUtc": "07:00",
+  "lockUtc": "06:59",
+  "baseline": {
+    "schemaVersion": 1,
+    "revision": "daily_queue_1",
+    "resetUtc": "07:00",
+    "entries": [
+      {
+        "date": "2026-10-19",
+        "candidateId": "candidate_171b3c335b26ac6a",
+        "contentHash": "171b3c335b26ac6ab4f98c78afd2d3000d4a79c23aba7aab9360fd4ff378f036",
+        "contentPath": "harbor-helm/daily/content/171b3c335b26ac6ab4f98c78afd2d3000d4a79c23aba7aab9360fd4ff378f036.json"
+      }
+    ]
+  },
+  "revisions": [
+    {
+      "atMillis": 1792340579247,
+      "order": [
+        "171b3c335b26ac6ab4f98c78afd2d3000d4a79c23aba7aab9360fd4ff378f036",
+        "83c696f830efc60689d2e2a927d43fcb50e1723e9626b050c24382f4cb1f7216"
+      ],
+      "rejected": []
+    }
+  ]
+}
