@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 5,
+  "revision": "daily_public_1",
+  "resetUtc": "07:00",
+  "epoch": 1,
+  "publishedAtMillis": 1793826861331,
+  "day": 20761,
+  "contentHash": null,
+  "backup": false
+}
