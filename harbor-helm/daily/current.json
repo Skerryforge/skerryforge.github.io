@@ -2,9 +2,9 @@
   "schemaVersion": 5,
   "revision": "daily_public_1",
   "resetUtc": "07:00",
-  "epoch": 2,
-  "publishedAtMillis": 1794122258158,
+  "epoch": 3,
+  "publishedAtMillis": 1794156840551,
   "day": 20765,
-  "contentHash": "c8aed12d813bacf6027ee339d03c1ea5487a1b1875cec91ea93603c86a455e15",
+  "contentHash": null,
   "backup": false
 }
