@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "revision": "daily_queue_3",
-  "resetUtc": "07:00",
+  "resetUtc": "00:00",
   "baseline": {
     "schemaVersion": 1,
     "revision": "daily_queue_1",
