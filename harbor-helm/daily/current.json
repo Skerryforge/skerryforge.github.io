@@ -1,10 +1,10 @@
 {
   "schemaVersion": 5,
   "revision": "daily_public_1",
-  "resetUtc": "07:00",
+  "resetUtc": "00:00",
   "epoch": 3,
-  "publishedAtMillis": 1794641772047,
-  "day": 20771,
-  "contentHash": "74417af355fff021b2dcc4b1ef67d6b8e9559a0c33714941109274c50abc49bb",
+  "publishedAtMillis": 1794707861851,
+  "day": 20772,
+  "contentHash": "0c1674aa35666d72c1e03cfc9543a77ca73bdf93069b74776aef67685ee3af98",
   "backup": false
 }
