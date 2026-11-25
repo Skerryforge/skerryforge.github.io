@@ -3,8 +3,8 @@
   "revision": "daily_public_1",
   "resetUtc": "00:00",
   "epoch": 3,
-  "publishedAtMillis": 1795493896797,
-  "day": 20781,
-  "contentHash": "9cd359db3be2030c4145671af36955f0eea2758eacea175faa3f9df3324d5502",
-  "backup": false
+  "publishedAtMillis": 1795575726490,
+  "day": 20782,
+  "contentHash": "d46d7c87ec9ef66517b427e955642f2118011821e08c1e85b171be97d9bec84e",
+  "backup": true
 }
